@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin : 0;
+}
+.list1{
+    width: 50%;
+    height: 50px;
+    background: white;
+    float: right;
+    transition: width 2s;
+}
+
+.list2{
+    width: 50%;
+    height: 50px;
+    background-color: rgb(255, 138, 138);
+    float: left;
+    transition: width 2s;
+}
+
+#cont{
+    transition: top 2s;
+}
